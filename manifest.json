@@ -1,0 +1,14 @@
+{
+  "name": "مها - نظام المذاكرة الذكي",
+  "short_name": "مها",
+  "description": "نظام تتبع الأخطاء والمذاكرة الذكي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D050B",
+  "theme_color": "#E8719A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
